@@ -1,0 +1,205 @@
+Return-path: <b01712bd366admin=carabinasyco2.com@bounce.twitter.com>
+Envelope-to: admin@carabinasyco2.com
+Delivery-date: Fri, 11 Apr 2014 21:31:16 +0200
+Received: from spruce-goose-at.twitter.com ([199.59.150.89]:47653)
+	by milan.evalice.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <b01712bd366admin=carabinasyco2.com@bounce.twitter.com>)
+	id 1WYhAS-000HpW-AO
+	for admin@carabinasyco2.com; Fri, 11 Apr 2014 21:31:16 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201303; t=1397244673;
+	bh=0tkMm5910RDSomOd+DYHVV2bol2swD/uO3WLFKlgTyg=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:Message-ID;
+	b=UcNws3zYueY6CHKT+LvUnW/6jxzVCUs7khjzIF4aI80M6ibfI//x3kowxRGBnFs/1
+	 addOHUC0RxsI8GKy0adFeF4aqMjfTuQCs3XYzVyatDc3EPr3tNhB6Q6wB+TIw8JBz7
+	 SgRGcg7zsdoD3Qh8+Zq4AABF0+4l5yKwo4K2iwYc=
+X-MSFBL: YWRtaW5AY2FyYWJpbmFzeWNvMi5jb21Ac21mMS1iZmYtMDYtc3IxLUV2ZXJ5dGhp
+	bmcuMTg5QEV2ZXJ5dGhpbmdAYWRtaW5cQGNhcmFiaW5hc3ljbzIuY29tXEA0N1xA
+	MjQzMTkyMDkzOFxAMFxANDRhYWRjNzE0NGUzMTRmNTllZTI2Zjc4Mjc0OWZkMWJl
+	MTRjMTY3OQ==
+Date: Fri, 11 Apr 2014 19:31:13 +0000
+From: Twitter <info@twitter.com>
+To: CARABINAS Y CO2 <admin@carabinasyco2.com>
+Subject: Bienvenido a Twitter, CARABINAS Y CO2
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_10383649_1641938307.1397244673479"
+Precedence: Bulk
+Message-ID: <D8.FE.31581.10348435@spruce-goose.twitter.com>
+
+------=_Part_10383649_1641938307.1397244673479
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Mantente conectado con lo que est=C3=A1 pasando.
+Ve a https://twitter.com en tu tel=C3=A9fono.
+
+=C2=BFTienes un iPhone, iPad, Android, Windows Phone 7 o Blackberry?
+Obt=C3=A9n la aplicaci=C3=B3n de Twitter en https://twitter.com/download
+------=_Part_10383649_1641938307.1397244673479
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content=" width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>Bienvenido a Twitter, CARABINAS Y CO2</title>
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=container] {
+width: 100% !important;
+padding: 0 !important;
+margin: 0 !important;
+}
+
+table [class=shadow] {
+box-shadow: none !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+}
+
+td[class=headline] h2 {
+width: 280px !important;
+}
+
+td[class=address] p {
+width: 240px !important;
+}
+
+td[class=logo_container] .cut {
+display: none !important;
+}
+
+td[class=logo_container] .logo2x {
+display: block !important;
+background-image: url(https://ea.twimg.com/email/t1/logo_3x.png) !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 30px !important;
+z-index: 1 !important;
+}
+}
+</style>
+</head>
+<body class="basic" style="background-color:#eee;width:100%;padding:0px;margin:0px;">
+<img width="1" height="1" style="display: block;display:block;width:100%;margin:0;padding:0;" src="https://twitter.com/scribe/ibis?uid=2431920938&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;nid=47+20+20140410&amp;t=1" />
+<table id="main_body" class="basic" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;padding:0px;margin:0px;background-color:#eee;">
+<tbody>
+<tr>
+<td align="center">
+<table class="container" align="center" cellpadding="0" cellspacing="0" border="0" style="width:500px;background-color:#eee;">
+<tbody>
+<tr id="header">
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tbody>
+<tr>
+<td class="spacer" height="15px" style="height:15px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr>
+<td align="center" width="36px" height="30px" class="logo_container" style="height:30px;width:35px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;font-size:16px;font-weight:bold;color:#55acee;text-align:center;height:30px;width:35px;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fdownload%3Freferrer%3Dutm_source%253Dproductemail%2526utm_medium%253Demail%2526utm_campaign%253Dproductemail&amp;t=1&amp;sig=b8a6f532db1ce5430db34f75233ef5eec7c26ab2&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;uid=2431920938&amp;nid=47+403+20140410" style="text-decoration:none;color:#8899a6;font-size:11px;"> <img valign="center" src="https://ea.twimg.com/email/t1/logo_1x.png" border="0" class="cut" alt="Twitter" style="display:block;width:100%;margin:0;padding:0;" /> <span class="logo2x"></span> </a> </td>
+</tr>
+<tr>
+<td class="spacer" height="3px" style="height:3px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr id="Mod1">
+<td>
+<table class="basic" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;padding:0px;margin:0px;">
+<tbody>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="10px" style="height:10px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="modContent" style="font-size: 1px;background-color:#fff">
+<table class="basic shadow" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;padding:0px;margin:0px;box-shadow:-1px 2px 1px #e5e5e5;-moz-box-shadow:-1px 1px 1px #e5e5e5;-webkit-box-shadow:-1px 1px 1px #e5e5e5;">
+<tbody>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="blue_border" style="background-color:#baddf6;height:6px;margin:0px;padding:0px;display:block;"></td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="15px" style="height:15px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr>
+<td class="type_basic" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#4f5c64;padding:0px;margin:0px;"> <h1 class="type_basic" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#4f5c64;padding:0px;margin:0px;font-size:18px;text-align:center;">Nos alegramos de que est&eacute;s aqu&iacute;.</h1> </td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="15px" style="height:15px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fdownload%3Freferrer%3Dutm_source%253Dproductemail%2526utm_medium%253Demail%2526utm_campaign%253Dproductemail&amp;t=1&amp;sig=b8a6f532db1ce5430db34f75233ef5eec7c26ab2&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;uid=2431920938&amp;nid=47+403+20140410" style="text-decoration:none;color:#8899a6;font-size:11px;"> <img class="main_image" src="https://ea.twimg.com/email/t1/peeps.jpg" width="100%" border="0" style="width:100%;display:block;width:100%;margin:0;padding:0;background-color:#baddf6;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;font-size:16px;font-weight:bold;color:#55acee;text-align:center;" /> </a> </td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="30px" style="height:30px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr>
+<td align="center" class="headline"> <h2 class="type_basic" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#4f5c64;padding:0px;margin:0px;font-size:22px;line-height:34px;text-align:center;font-weight:300;padding:0px;margin:0;width:400px;"> Inicia una conversaci&oacute;n, explora tus intereses. Recibe lo m&aacute;s reciente instant&aacute;neamente. </h2> </td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="30px" style="height:30px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td align="center">
+<table bgcolor="##55acee" border="0" cellspacing="0" cellpadding="0" width="180px" class="button_container" style="white-space:nowrap;background-color:#55acee;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-align:center;height:1px;width:190px;box-shadow:-1px 1px 0px #e5e5e5;-moz-box-shadow:-1px 1px 0px #e5e5e5;-webkit-box-shadow:-1px 1px 0px #e5e5e5;">
+<tbody>
+<tr>
+<td height="46" align="center" class="button_cta" style="font-size:16px;font-weight:bold;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fdownload%3Freferrer%3Dutm_source%253Dproductemail%2526utm_medium%253Demail%2526utm_campaign%253Dproductemail&amp;t=1&amp;sig=b8a6f532db1ce5430db34f75233ef5eec7c26ab2&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;uid=2431920938&amp;nid=47+403+20140410" style="text-decoration:none;color:#8899a6;font-size:11px;"> <span class="link_fix" style="color:#ffffff;text-decoration:none;font-size:16px;"> &iexcl;Obt&eacute;n la aplicaci&oacute;n! </span> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="40px" style="height:40px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr id="footer">
+<td>
+<table class="basic" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;padding:0px;margin:0px;">
+<tbody>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="20" style="height:20px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="type_basic" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#4f5c64;padding:0px;margin:0px;"> <p class="type_footer" style="padding:0px;margin:0px;font-size:13px;text-align:center;color:#8899a6;font-weight:300;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fsettings%2Fnotifications&amp;t=1&amp;sig=b1c16f86bf1e121400566265145ebf207045d05f&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;uid=2431920938&amp;nid=47+27+20140410" style="text-decoration:none;color:#8899a6;font-size:11px;text-decoration:none;color:#55acee;font-weight:bold;font-size:13px;-webkit-text-size-adjust:none;">
+<bold>
+configuraci&oacute;n de email
+</bold> </a> &nbsp;|&nbsp; <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Fsupport.twitter.com&amp;t=1&amp;sig=969ab46e4db74c8614bd86543a989a031a3d4570&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;uid=2431920938&amp;nid=47+97+20140410" style="text-decoration:none;color:#8899a6;font-size:11px;text-decoration:none;color:#55acee;font-weight:bold;font-size:13px;-webkit-text-size-adjust:none;">
+<bold>
+ayuda
+</bold> </a> &nbsp;|&nbsp; <a href="https://twitter.com/i/u?t=1&amp;sig=e21ca701ac13a40dc332d73f841b289913cea3b5&amp;iid=2f28981ddca4406eab4b626b1035ef4e&amp;uid=2431920938&amp;nid=47+26+20140410" style="text-decoration:none;color:#8899a6;font-size:11px;text-decoration:none;color:#55acee;font-weight:bold;font-size:13px;-webkit-text-size-adjust:none;">
+<bold>
+cancelar
+</bold> </a> </p> </td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="10" style="height:10px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="address" align="center"> <p class="type_basic" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#4f5c64;padding:0px;margin:0px;padding:0px;margin:0px;font-size:12px;text-align:center;color:#8899a6;line-height:16px;text-align:center;-webkit-text-size-adjust:none;"> <a href="#" style="text-decoration:none;color:#8899a6;font-size:11px;">Twitter, Inc. 1355 Market Street, Suite 900 San Francisco, CA 94103</a> </p> </td>
+</tr>
+<tr class="basic" style="width:100%;padding:0px;margin:0px;">
+<td class="spacer" height="20" style="height:20px;display:block;padding:0px;margin:0px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+------=_Part_10383649_1641938307.1397244673479--

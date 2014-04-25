@@ -1,0 +1,306 @@
+Return-path: <f91a98be.bBn.buY.2o.7FRdUJ+admin=carabinasyco2.com@bnc.mailjet.com>
+Envelope-to: admin@carabinasyco2.com
+Delivery-date: Sun, 30 Mar 2014 03:45:12 +0200
+Received: from o127.p4.mailjet.com ([178.33.221.127]:59275)
+	by milan.evalice.net with esmtp (Exim 4.82)
+	(envelope-from <f91a98be.bBn.buY.2o.7FRdUJ+admin=carabinasyco2.com@bnc.mailjet.com>)
+	id 1WU4oB-000dYf-TC
+	for admin@carabinasyco2.com; Sun, 30 Mar 2014 03:45:11 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; q=dns/txt;
+	d=addons.prestashop.com; i=no-reply@addons.prestashop.com; s=mailjet;
+	h=domainkey-signature:message-id:mime-version:content-transfer-encoding:content-type:from:reply-to:to:subject:date:list-unsubscribe:x-libversion;
+	bh=WLtnvTaRFijHggD6grUcZRBTiW4=;
+	b=KQcmSGcjJh+Oo+Z59KlwbPdWNLDru6YSwDEO5RpMuLMPGGrNXeSZyYQblu1GV9+z/nu+lhSOYo4pFcKYBivABe2gJE04j6RbgYmE291cIhxRFw5TiB/8o9nzlJjk52t8sTq2tp+CnSM+iHApwrrwoaRQPSPL1t/eDk7TOVCzHQ8=
+Domainkey-Signature: a=rsa-sha1; c=simple; q=dns;
+	d=addons.prestashop.com; s=mailjet;
+	h=message-id:mime-version:content-transfer-encoding:content-type:from:reply-to:to:subject:date:list-unsubscribe:x-libversion;
+	b=XfvnQSMjvPgyvzSYxgIKIWZwnHQN+biUA09W3rPR9wdjsoZOvQ3Ns3PclFgYrELnW5k8QLKI1JPwNtJlBXRazq+u+qCie3q5v3cA2zc0FAQjE/GeLJeH7AT0D9rbHEIEVv75kQGJQ+8UGdV+AGB5EwontHBhIE7QLavN9Ww4STw=
+Message-Id: <f91a98be.bBn.buY.2o.7FRdUJ@mailjet.com>
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+ boundary="_=_swift-1484122749533777239a5ff6.54959800_=_"
+From: Addons <no-reply@addons.prestashop.com>
+Reply-To: Addons <no-reply@addons.prestashop.com>
+To: DANIEL CASTILLO <admin@carabinasyco2.com>
+Subject: [PrestaShop Addons] Activation of your account
+Date: Sun, 30 Mar 2014 03:45:07 +0200
+List-Unsubscribe: <mailto:unsub-f91a98be.xhsz.3h4n70u@bnc.mailjet.com>
+X-Libversion: 3.3.2
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-1484122749533777239a5ff6.54959800_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+                                                                                                               PrestaShop   |Addons  Support   PrestaBox     
+
+
+
+
+                                                                                                                   Email Verification              
+
+
+
+
+
+
+           
+
+               Hi DANIEL CASTILLO, 
+
+
+               Welcome to PrestaShop Addons, the official marketplace for PrestaShop modules and themes. 
+
+
+               To activate your Addons account, please verify your email address by copying and pasting the following link 
+               into your browser. 
+
+
+
+               http://addons.prestashop.com/modules/emailverify/activate.php?id_customer=c85f4311981341f3b858d9570b2ac4a2&token=842c5740ccb9d30b8e840016198f2e92 
+
+               Once complete, you will be able to purchase, download and install any of the amazing products you'll find on 
+
+               PrestaShop Addons. 
+
+
+               Downloading new modules and themes is a great way to customize the look, feel and functionality of your e- 
+
+               store. 
+
+
+               From automated SEO modules to full-blown store managers, PrestaShop Addons has everything you need to make 
+
+               your e-business prosper! 
+
+
+               If you have any questions or require additional information, feel free to contact our expert support team at                1-      
+                                 . 
+                888-947-6543
+
+
+
+                    Did you Know?
+
+
+
+                                  Are you ready to start building your online store? If the answer is yes, then we invite you to
+
+                                  checkout the PrestaShop documentation site          where you will find everything you need to 
+                                  create, market and maintain a successful e-commerce business.
+
+
+
+                                  If you need help at any time, feel free to contact our support experts at
+
+                                  1-888-947-6543     . We also invite you to   view our personalized support packages           designed 
+
+                                  to assist you and your business with everything from installation to realization.
+
+
+
+
+                Thanks so much,
+
+                The PrestaShop Addons Team
+
+           
+
+
+
+
+               FOLLOW US                                                   You received this email because you are a PrestaShop Addons customer or 
+                                                                           contributor. Please do not answer this message. 
+                                                                           To contact us, pleasclick he.e
+
+                                                                           Home  | Legal notice  Contact us                                        
+
+
+
+                © PrestaShop Addons powered by PrestaShop™
+
+
+
+--_=_swift-1484122749533777239a5ff6.54959800_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>PrestaShop Addons</title>
+</head>
+<body bgcolor="#343943" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+<center style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#21242B" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+    <td bgcolor="#21242B" height="30" width="650" style="border-bottom: #000000 solid 1px;">
+    	<table width="650" border="0" cellspacing="0" cellpadding="0">
+    		<td height="30" align="left" valign="middle"></td>
+    		<td height="30" align="right" valign="middle"><span style="color: #909299; font-size: 11px;"><a href="http://buy.r.mailjet.com/redirect/82x4hwlv8kkf2tps4gcbn7/www.prestashop.com/" style="color: #909299; font-weight: bold;
+text-decoration: none;">PrestaShop</a> | <a href="http://buy.r.mailjet.com/redirect/rpj1tnd69gw8ds4nh2wpgb/addons.prestashop.com/en" style="color: #909299; font-weight: bold; text-decoration: none;">Addons</a> | <a href="http://buy.r.mailjet.com/redirects/fnhnt99488t5y12vnzzmtd/www.prestashop.com/en/support" style="color: #909299; font-weight: bold; text-decoration: none;">Support</a></a> | <a href="http://buy.r.mailjet.com/redirect/n138hnmk5vpbwsrlwncqsj/www.prestabox.com/" style="color: #909299; font-weight: bold; text-decoration: none;">PrestaBox</a></span></td>
+    	</table>
+    </td>
+    <td bgcolor="#21242B" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#343943" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+    <td bgcolor="#343943" height="120" width="650" align="center" valign="middle" style="border-bottom: #000000 solid 1px;">
+        <table width="650" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="left" height="120" width="302" valign="middle"><a href="http://buy.r.mailjet.com/redirect/lqknh0kvqx21d2szcosxtn/addons.prestashop.com/" style="text-decoration: none;"><img
+src="http://addons.prestashop.com/mails/images/addons-logo.png" border="0" height="65" width="302" alt="PrestaShop Addons" /></a></td>                <td align="right" width="468" valign="middle"><span style="color: #FFFFFF; font-size: 20px;">Email Verification</span></td>
+            </tr>
+        </table>
+    </td>
+    <td bgcolor="#343943" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAEAEA" colspan="3" height="35" style="border-top: #FFFFFF solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAEAEA">&nbsp;</td>
+    <td bgcolor="#EAEAEA" align="left" valign="top" width="650">
+    	<p style="color: #343943; font-size: 18px; line-height: 24px; margin-top: 0px;"><strong>Hi DANIEL CASTILLO,</strong></p>
+        <p style="color: #68737F; font-size: 15px; line-height: 24px;">Welcome to PrestaShop Addons, the official marketplace for PrestaShop modules and themes.</p>
+        <p style="color: #68737F; font-size: 15px; line-height: 24px;">To
+activate your Addons account, please verify your email address by copying and pasting the following link into your browser.</p>
+        <a href="http://buy.r.mailjet.com/redirect/f3orh2mypmqjm5mhcdyyhm/addons.prestashop.com/modules/emailverify/activate.php?id_customer=c85f4311981341f3b858d9570b2ac4a2&token=842c5740ccb9d30b8e840016198f2e92" style="color: #279EE0; font-size: 15px; line-height: 24px; text-decoration: none;"><strong>http://addons.prestashop.com/modules/emailverify/activate.php?id_customer=c85f4311981341f3b858d9570b2ac4a2&token=842c5740ccb9d30b8e840016198f2e92</strong></a>
+        <p style="color: #68737F; font-size: 15px; line-height: 24px;">Once complete, you will be able to purchase, download and install any of the amazing products you'll find on PrestaShop Addons.</p>
+        <p style="color: #68737F; font-size: 15px; line-height: 24px;">Downloading new modules and themes is a great way to customize the look, feel and functionality of your e-store.</p>
+        <p style="color: #68737F; font-size: 15px; line-height:
+24px;">From automated SEO modules to full-blown store managers, PrestaShop Addons has everything you need to make your e-business prosper!</p>
+        <p style="color: #68737F; font-size: 15px; line-height: 24px;">If you have any questions or require additional information, feel free to contact our expert support team at <strong style="color: #343943;">1-888-947-6543</strong>.</p>
+        <table width="650" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="5" height="5"><img src="http://addons.prestashop.com/mails/images/box-yellow-t.png" border="0" height="5" width="650" alt="" /></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFDE9" width="25" style="border-left: #D8D8D8 solid 1px;"></td>
+            <td align="left" bgcolor="#FFFDE9" height="50" valign="middle">
+            	<span style="color: #343943; font-size: 18px; line-height: 18px;"><strong>Did you Know?</strong></span>
+            </td>
+            <td bgcolor="#FFFDE9"
+colspan="2" width="55">
+            	<img src="http://addons.prestashop.com/mails/images/title-icon-bulbe.png" border="0" height="50" width="55" alt="" />
+            </td>
+            <td bgcolor="#FFFDE9" width="10" style="border-right: #D8D8D8 solid 1px;"></td>
+          </tr>
+          <tr>
+            <td colspan="5" bgcolor="#FFFFFF" height="13"><img src="http://addons.prestashop.com/mails/images/box-yellow-b.png" border="0" height="13" width="650" alt="" /></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" height="12" width="25" style="border-left: #D8D8D8 solid 1px;"></td>
+            <td bgcolor="#FFFFFF" height="12" width="560"></td>
+            <td bgcolor="#FFFFFF" height="12" width="40"></td>
+            <td bgcolor="#FFFFFF" height="12" width="15"></td>
+            <td bgcolor="#FFFFFF" height="12" width="10" style="border-right: #D8D8D8 solid 1px;"></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" width="25" style="border-left:
+#D8D8D8 solid 1px;"></td>
+            <td align="left" bgcolor="#FFFFFF" colspan="2" valign="middle">
+            	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="left" valign="top" width="65"><img src="http://addons.prestashop.com/mails/images/icon-docs.png" border="0" height="40" width="55" alt="" /></td>
+                    <td valign="middle">
+                    	<p style="color: #343943; font-size: 15px; line-height: 20px; margin: 0px;">Are you ready to start building your online store? If the answer is yes, then we invite you to <a href="http://buy.r.mailjet.com/redirect/96jyhzcgrr070nhyp8fcl3/doc.prestashop.com/dashboard.action" style="color: #279EE0; text-decoration: none;">checkout the PrestaShop documentation site</a> where you will find everything you need to create, market and maintain a successful e-commerce business.</p>
+                    </td>
+                  </tr>
+                </table>
+                <table width="100%" border="0"
+cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="left" height="15" valign="top" style="border-bottom: solid 1px #BEBEBE;"></td>
+                  </tr>
+                  <tr>
+                    <td align="left" height="15" valign="top" style="border-top: solid 1px #FFFFFF;"></td>
+                  </tr>
+                </table>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="left" valign="top" width="65"><img src="http://addons.prestashop.com/mails/images/icon-phone.png" border="0" height="40" width="55" alt="" /></td>
+                    <td valign="middle">
+                    	<p style="color: #343943; font-size: 15px; line-height: 20px; margin: 0px;">If you need help at any time, feel free to contact our support experts at<br />
+                        <strong>1-888-947-6543</strong>. We also invite you to <a href="http://buy.r.mailjet.com/redirects/n1jqt63dldwyngx60k45rw/www.prestashop.com/en/support"
+style="color: #279EE0; text-decoration: none;">view our personalized support packages</a> designed to assist you and your business with everything from installation to realization.</p>
+                    </td>
+                  </tr>
+                </table>
+            </td>
+            <td bgcolor="#FFFFFF" colspan="2" width="25" style="border-right: #D8D8D8 solid 1px;"></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" colspan="5" height="15" style="border-left: #D8D8D8 solid 1px; border-right: #D8D8D8 solid 1px;"></td>
+          </tr>
+          <tr>
+            <td colspan="5" height="5"><img src="http://addons.prestashop.com/mails/images/box-white-b.png" border="0" height="5" width="650" alt="" /></td>
+          </tr>
+        </table>
+        <br />
+        <p style="color: #68737F; font-size: 15px; line-height: 24px;">Thanks so much,<br />
+        <strong style="color: #343943;">The PrestaShop Addons Team</strong></p>
+    </td>
+    <td
+bgcolor="#EAEAEA">&nbsp;</td>
+  </tr>  <tr>
+    <td bgcolor="#EAEAEA" colspan="3" height="35" style="border-bottom: #FFFFFF solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#343943" style="border-top: #000000 solid 1px;">&nbsp;</td>
+    <td bgcolor="#343943" align="center" valign="top" style="border-top: #000000 solid 1px;" width="650">
+    <table width="650" border="0" cellspacing="0" cellpadding="0">
+  		<tr>
+            <td colspan="3" height="30"></td>
+        </tr>
+        <tr>
+   			<td align="left" width="270" valign="top">
+   			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  				<tr>
+   					<td align="left" colspan="6" height="25" width="240" valign="top"><span style="color: #909299; font-size: 15px; line-height: 15px;"><strong>FOLLOW US</strong></span></td>
+   				</tr>
+   				<tr>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirects/c534tr6xkyk464pfl43yp4/www.facebook.com/prestashop" style="text-decoration: none;"><img
+src="http://addons.prestashop.com/mails/images/facebook.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/1v5st8qxw99q1cnztyr6yt/twitter.com/#!/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/twitter.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/jc59hjt6bzdhqksd38zdpm/vimeo.com/prestashopofficial" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/vimeo.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/nspjtygx9qg4x40nkx5ztz/www.youtube.com/user/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/youtube.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/dm9mt83rmkll9hvfym72zo/www.reddit.com/r/prestashop" style="text-decoration: none;"><img
+src="http://addons.prestashop.com/mails/images/reddit.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/8ndztnj3ms1ry7szwlwbj3/www.pinterest.com/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/pinterest.gif" border="0" height="42" width="41" /></a></td>
+  				</tr>
+			</table>
+   			</td>
+            <td width="30"></td>
+    		<td align="left" width="350" valign="top"><span style="color: #909299; font-size: 11px; line-height: 14px;">You received this email because you are a PrestaShop Addons customer or contributor. Please do not answer this message.<br />To contact us, please <a href="http://buy.r.mailjet.com/redirects/wwnktcj6ho9tf0bg808oqy/addons.prestashop.com/en/contact-us" style="color: #FFFFFF; text-decoration: none;">click here</a>.<br/><br/>
+            <a href="http://buy.r.mailjet.com/redirects/p95fhg3cwf10sgnhq9jq03/addons.prestashop.com/en" style="color: #FFFFFF; text-decoration: none;">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+href="http://buy.r.mailjet.com/redirect/vscohyky1qvvn7qpp4s758/addons.prestashop.com/en/content/12-terms-and-conditions-of-use" style="color: #FFFFFF; text-decoration: none;">Legal notice</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://buy.r.mailjet.com/redirects/gyzfh64p6pzr4lfts20vmw/addons.prestashop.com/en/contact-us" style="color: #FFFFFF; text-decoration: none;">Contact us</a></span></td>
+  		</tr>
+        <tr>
+            <td colspan="3" height="30"></td>
+        </tr>
+        <tr>
+            <td align="left" colspan="3" valign="top"><span style="color: #909299; font-size: 11px; line-height: 14px;">&copy; PrestaShop Addons powered by PrestaShop&trade;</span></td>
+        </tr>
+        <tr>
+            <td colspan="3" height="30"></td>
+        </tr>
+	</table>
+    </td>
+    <td bgcolor="#343943" style="border-top: #000000 solid 1px;">&nbsp;</td>
+  </tr>
+</table>
+</center>
+
+<br/><img src="http://buy.r.mailjet.com/o/xhsz/41f81b2d/3h4n70ue.gif" height="1" width="1" alt="" border="0" />
+</body>
+</html>
+
+--_=_swift-1484122749533777239a5ff6.54959800_=_--
+
+

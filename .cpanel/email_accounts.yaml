@@ -1,0 +1,12 @@
+--- 
+__version: '2.1'
+carabinasyco2.com: 
+  account_count: 1
+  accounts: 
+    admin: 
+      disk_mtime: '1398441303'
+      diskquota: 262144000
+      diskused: 725321
+  disk_mtime: '1398441303'
+  passwd_mtime: '1398441303'
+  quota_mtime: '1398441303'

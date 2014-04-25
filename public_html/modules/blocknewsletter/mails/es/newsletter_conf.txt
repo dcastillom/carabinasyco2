@@ -1,0 +1,10 @@
+
+[{shop_url}] 
+
+Hola, 
+
+THANK YOU FOR SUBSCRIBING TO OUR NEWSLETTER. 
+
+{shop_name} [{shop_url}] creado por
+PrestaShop(tm) [http://www.prestashop.com/] 
+

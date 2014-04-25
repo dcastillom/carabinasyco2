@@ -1,0 +1,440 @@
+Return-path: <78536ea1.bBn.buY.2p.7GuqdE+admin=carabinasyco2.com@bnc.mailjet.com>
+Envelope-to: admin@carabinasyco2.com
+Delivery-date: Mon, 31 Mar 2014 03:15:23 +0200
+Received: from o128.p4.mailjet.com ([178.33.221.128]:49859)
+	by milan.evalice.net with esmtp (Exim 4.82)
+	(envelope-from <78536ea1.bBn.buY.2p.7GuqdE+admin=carabinasyco2.com@bnc.mailjet.com>)
+	id 1WUQot-000MZl-7q
+	for admin@carabinasyco2.com; Mon, 31 Mar 2014 03:15:23 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; q=dns/txt;
+	d=addons.prestashop.com; i=no-reply@addons.prestashop.com; s=mailjet;
+	h=domainkey-signature:message-id:mime-version:content-transfer-encoding:content-type:from:reply-to:to:subject:date:list-unsubscribe:x-libversion;
+	bh=abc6qgYs6IMRUOaYUPF6JvHE50I=;
+	b=DnRVuQnFA+JyZfX6mLy4v2/itH9Tkp4lZ4bZqvG0Kog9UluyTy0AIf1WnyinDi+sX/VzSrkmEqT8Oz7xE+v6WrDPaVoiSJ5MI1wpJBWqHkU6bYPsKeTT8jq53CBqgCuSlze2/VZzy6rO90UtU6h28551w81FPOzHlxaxcsz6sik=
+Domainkey-Signature: a=rsa-sha1; c=simple; q=dns;
+	d=addons.prestashop.com; s=mailjet;
+	h=message-id:mime-version:content-transfer-encoding:content-type:from:reply-to:to:subject:date:list-unsubscribe:x-libversion;
+	b=ZhtgQr3kigt7m+OvbnHqvvhBDvHgSZs/JlGPyXNENvdI+avtKdkdOrZpHkAcyJyTkR7tRYhAeu3p/P4gTY3UZ9NzVEMnbCkxSTncmn2Pp5Yc29nsNM4/C7lUHndnlZDMLTMAnmaFDJpFoOixn/IRrJD1EnPL21TuinxontzlZsU=
+Message-Id: <78536ea1.bBn.buY.2p.7GuqdE@mailjet.com>
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+ boundary="_=_swift-7999727385338c196f19d19.62517069_=_"
+From: Addons <no-reply@addons.prestashop.com>
+Reply-To: Addons <no-reply@addons.prestashop.com>
+To: admin@carabinasyco2.com
+Subject: [PrestaShop Addons] PrestaShop's secrets to multiply your
+ sales...
+Date: Mon, 31 Mar 2014 03:15:02 +0200
+List-Unsubscribe: <mailto:unsub-78536ea1.xhsz.3hk37lv@bnc.mailjet.com>
+X-Libversion: 3.3.2
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-7999727385338c196f19d19.62517069_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+﻿
+
+--_=_swift-7999727385338c196f19d19.62517069_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>PrestaShop Addons</title>
+</head>
+<body bgcolor="#343943" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+<center style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#21242B" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+    <td bgcolor="#21242B" height="30" width="650" style="border-bottom: #000000 solid 1px;">
+    	<table width="650" border="0" cellspacing="0" cellpadding="0">
+    		<td height="30" align="left" valign="middle"></td>
+    		<td height="30" align="right" valign="middle"><span style="color: #909299; font-size: 11px;"><a href="http://buy.r.mailjet.com/redirect/t2nthjohfl3nd2dd0bv66w/www.prestashop.com/" style="color: #909299; font-weight: bold;
+text-decoration: none;">PrestaShop</a> | <a href="http://buy.r.mailjet.com/redirect/1l86h1l93bgmkvp1r0z2ts/addons.prestashop.com/en" style="color: #909299; font-weight: bold; text-decoration: none;">Addons</a> | <a href="http://buy.r.mailjet.com/redirects/gso2tfg3r7ck1x3ttttpnt/www.prestashop.com/en/support" style="color: #909299; font-weight: bold; text-decoration: none;">Support</a></a> | <a href="http://buy.r.mailjet.com/redirect/l6qntgxgoqrgnsq487ylh4/www.prestabox.com/" style="color: #909299; font-weight: bold; text-decoration: none;">PrestaBox</a></span></td>
+    	</table>
+    </td>
+    <td bgcolor="#21242B" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#343943" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+    <td bgcolor="#343943" height="120" width="650" align="center" valign="middle" style="border-bottom: #000000 solid 1px;">
+        <table width="650" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="left" height="120" width="302" valign="middle"><a href="http://buy.r.mailjet.com/redirect/716xhnop2jwlz6yd076txo/addons.prestashop.com/" style="text-decoration: none;"><img
+src="http://addons.prestashop.com/mails/images/addons-logo.png" border="0" height="65" width="302" alt="PrestaShop Addons" /></a></td><td align="right" width="468" valign="middle"><span style="color: #FFFFFF; font-size: 20px;">PrestaShop’s secrets to multiply your sales...</span></td>
+            </tr>
+        </table>
+    </td>
+    <td bgcolor="#343943" style="border-bottom: #000000 solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAEAEA" colspan="3" height="35" style="border-top: #FFFFFF solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAEAEA">&nbsp;</td>
+    <td bgcolor="#EAEAEA" align="left" valign="top" width="650">
+
+		<table width="660" cellspacing="0" cellpadding="15" border="0" bgcolor="#ffffff" class="w660table">
+		<tbody>
+			<tr>
+				<td width="660" bgcolor="#ffffff" align="left" style="border:1px solid #d8d8d8;">
+
+					<font size="3" face="Arial" color="#333333">
+						<span style="font-size:18px">
+							<b>DANIEL CASTILLO, What if we told you that we can help you start increasing your sales right now?</b><br><br>
+						</span>
+					</font>
+					<font size="2" face="Arial" color="#333333">
+						<span style="font-size:13px;display:block;line-height:20px">
+							Some of the most innovative modules and professional themes to transform your store into a unique online shopping experience are waiting for you on <a href="http://buy.r.mailjet.com/redirect/4b8xtmcjccxshxm4pf068m/addons.prestashop.com/?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN">PrestaShop Addons</a>.
+							<br><br>
+							Over 165,000 successful online merchants use these major tools to boost traffic, optimize conversion rates, gain customer loyalty... and sell so much more.
+							<br><br>
+							The PrestaShop team is thrilled to contribute to your shop’s online success and you can always count on our e-commerce expertise.
+						</span>
+					</font>
+
+					<font size="3" face="Arial" color="#333333" style="font-size:18px;display:block;">
+						<br><br><b>3 tips to optimize conversion rates</b><br><br>
+					</font>
+
+					<table width="640" cellspacing="10" cellpadding="0" border="0" bgcolor="#ffffff">
+						<tbody>
+						<tr>
+							
+			<td width="209" valign="top" bgcolor="#FFFFFF" style="border:1px solid #d8d8d8;">
+				<table width="209" cellspacing="0" cellpadding="5" border="0">
+					<tbody>
+					<tr>
+						<td width="65" valign="top">
+							<img src="http://medias3.prestastore.com/img/pico/5695.jpg" alt="Advanced Background Changer" height="57" width="57" border="0" style="display:block;overflow:hidden" />
+						</td>
+						<td width="122" height="80" valign="top">
+							<font size="3" face="Arial" color="#343943">
+								<span style="color: #343943; font-size: 15px; line-height: 16px;">
+									<b>Advanced Background Changer</b>
+								</span><br>
+							</font>
+							<img width="75" border="0" height="18" src="http://medias3.prestastore.com/themes/prestastore/img/rate_4.jpg" alt="PS" style="display:block;overflow:hidden">
+						</td>
+					</tr>
+					<tr>
+						<td width="209" valign="top" height="80" colspan="2">
+							<font size="2" face="Arial" color="#7AC143">
+								<b>
+									Suit up your eshop by adding full screen backgrounds and slideshows...
+								</b>
+							</font>
+						</td>
+					</tr>
+					<tr>
+						<td width="209" align="right" colspan="2">
+							<font size="3" face="Arial" color="#343943">
+								<b>
+									<a class="linkmodule" style="color: #279EE0; font-size: 15px;text-decoration: none;" href="http://buy.r.mailjet.com/redirect/nmy1hz32p02hcg0blvlk83/addons.prestashop.com/en/front-office-features-prestashop-modules/5695-advanced-background-changer.html?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN" target="_blank">
+										<img width="19" border="0" align="right" height="19" style="display:block;padding-top: 2px;" alt="bullet" src="http://medias3.prestastore.com/img/bullet.png">
+										Check it out!&nbsp;
+									</a>
+								</b>
+							</font>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</td>
+		
+			<td width="209" valign="top" bgcolor="#FFFFFF" style="border:1px solid #d8d8d8;">
+				<table width="209" cellspacing="0" cellpadding="5" border="0">
+					<tbody>
+					<tr>
+						<td width="65" valign="top">
+							<img src="http://medias1.prestastore.com/img/pico/2191.jpg" alt="Box Notification (Popup)" height="57" width="57" border="0" style="display:block;overflow:hidden" />
+						</td>
+						<td width="122" height="80" valign="top">
+							<font size="3" face="Arial" color="#343943">
+								<span style="color: #343943; font-size: 15px; line-height: 16px;">
+									<b>Box Notification (Popup)</b>
+								</span><br>
+							</font>
+							<img width="75" border="0" height="18" src="http://medias3.prestastore.com/themes/prestastore/img/rate_4.jpg" alt="PS" style="display:block;overflow:hidden">
+						</td>
+					</tr>
+					<tr>
+						<td width="209" valign="top" height="80" colspan="2">
+							<font size="2" face="Arial" color="#7AC143">
+								<b>
+									Sale more with this module!
+Merchants often need to put forward a possible warning, a call to action or just a greeting...
+								</b>
+							</font>
+						</td>
+					</tr>
+					<tr>
+						<td width="209" align="right" colspan="2">
+							<font size="3" face="Arial" color="#343943">
+								<b>
+									<a class="linkmodule" style="color: #279EE0; font-size: 15px;text-decoration: none;" href="http://buy.r.mailjet.com/redirect/fsy8h7ytfojktcn3tt5xcn/addons.prestashop.com/en/front-office-features-prestashop-modules/2191-box-notification-popup.html?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN" target="_blank">
+										<img width="19" border="0" align="right" height="19" style="display:block;padding-top: 2px;" alt="bullet" src="http://medias3.prestastore.com/img/bullet.png">
+										Check it out!&nbsp;
+									</a>
+								</b>
+							</font>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</td>
+		
+			<td width="209" valign="top" bgcolor="#FFFFFF" style="border:1px solid #d8d8d8;">
+				<table width="209" cellspacing="0" cellpadding="5" border="0">
+					<tbody>
+					<tr>
+						<td width="65" valign="top">
+							<img src="http://medias1.prestastore.com/img/pico/1914.jpg" alt="Magic Zoom Plus" height="57" width="57" border="0" style="display:block;overflow:hidden" />
+						</td>
+						<td width="122" height="80" valign="top">
+							<font size="3" face="Arial" color="#343943">
+								<span style="color: #343943; font-size: 15px; line-height: 16px;">
+									<b>Magic Zoom Plus</b>
+								</span><br>
+							</font>
+							<img width="75" border="0" height="18" src="http://medias1.prestastore.com/themes/prestastore/img/rate_45.jpg" alt="PS" style="display:block;overflow:hidden">
+						</td>
+					</tr>
+					<tr>
+						<td width="209" valign="top" height="80" colspan="2">
+							<font size="2" face="Arial" color="#7AC143">
+								<b>
+									Magic Zoom Plus™ zooms AND enlarges images. Hover to see a gorgeous zoomed image to the side; click to enlarge it and ...
+								</b>
+							</font>
+						</td>
+					</tr>
+					<tr>
+						<td width="209" align="right" colspan="2">
+							<font size="3" face="Arial" color="#343943">
+								<b>
+									<a class="linkmodule" style="color: #279EE0; font-size: 15px;text-decoration: none;" href="http://buy.r.mailjet.com/redirect/6g82hzz5nygxk0p6kf35sy/addons.prestashop.com/en/front-office-features-prestashop-modules/1914-magic-zoom-plus.html?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN" target="_blank">
+										<img width="19" border="0" align="right" height="19" style="display:block;padding-top: 2px;" alt="bullet" src="http://medias3.prestastore.com/img/bullet.png">
+										Check it out!&nbsp;
+									</a>
+								</b>
+							</font>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</td>
+		
+						</tr>
+					</tbody></table>
+
+					<font size="3" face="Arial" color="#333333" style="font-size:18px;display:block;">
+						<br><br><b>3 tips that will instantly multiply your sales</b><br><br>
+					</font>
+
+					<table width="640" cellspacing="10" cellpadding="0" border="0" bgcolor="#ffffff">
+						<tbody>
+						<tr>
+							
+			<td width="209" valign="top" bgcolor="#FFFFFF" style="border:1px solid #d8d8d8;">
+				<table width="209" cellspacing="0" cellpadding="5" border="0">
+					<tbody>
+					<tr>
+						<td width="65" valign="top">
+							<img src="http://medias1.prestastore.com/img/pico/2501.jpg" alt="Amazon Market Place" height="57" width="57" border="0" style="display:block;overflow:hidden" />
+						</td>
+						<td width="122" height="80" valign="top">
+							<font size="3" face="Arial" color="#343943">
+								<span style="color: #343943; font-size: 15px; line-height: 16px;">
+									<b>Amazon Market Place</b>
+								</span><br>
+							</font>
+							<img width="75" border="0" height="18" src="http://medias3.prestastore.com/themes/prestastore/img/rate_4.jpg" alt="PS" style="display:block;overflow:hidden">
+						</td>
+					</tr>
+					<tr>
+						<td width="209" valign="top" height="80" colspan="2">
+							<font size="2" face="Arial" color="#7AC143">
+								<b>
+									Prestashop Addons exclusive, the Amazon Market Place for Prestashop is the #1 solution to sell your products online to A...
+								</b>
+							</font>
+						</td>
+					</tr>
+					<tr>
+						<td width="209" align="right" colspan="2">
+							<font size="3" face="Arial" color="#343943">
+								<b>
+									<a class="linkmodule" style="color: #279EE0; font-size: 15px;text-decoration: none;" href="http://buy.r.mailjet.com/redirect/g6z0hnqwlt6j8o7hs2y0vp/addons.prestashop.com/en/marketplace-prestashop-modules/2501-amazon-market-place.html?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN" target="_blank">
+										<img width="19" border="0" align="right" height="19" style="display:block;padding-top: 2px;" alt="bullet" src="http://medias3.prestastore.com/img/bullet.png">
+										Check it out!&nbsp;
+									</a>
+								</b>
+							</font>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</td>
+		
+			<td width="209" valign="top" bgcolor="#FFFFFF" style="border:1px solid #d8d8d8;">
+				<table width="209" cellspacing="0" cellpadding="5" border="0">
+					<tbody>
+					<tr>
+						<td width="65" valign="top">
+							<img src="http://medias3.prestastore.com/img/pico/1768.jpg" alt="Google Merchant Center: the best Google Shopping module" height="57" width="57" border="0" style="display:block;overflow:hidden" />
+						</td>
+						<td width="122" height="80" valign="top">
+							<font size="3" face="Arial" color="#343943">
+								<span style="color: #343943; font-size: 15px; line-height: 16px;">
+									<b>Google Merchant Center: ...</b>
+								</span><br>
+							</font>
+							<img width="75" border="0" height="18" src="http://medias1.prestastore.com/themes/prestastore/img/rate_45.jpg" alt="PS" style="display:block;overflow:hidden">
+						</td>
+					</tr>
+					<tr>
+						<td width="209" valign="top" height="80" colspan="2">
+							<font size="2" face="Arial" color="#7AC143">
+								<b>
+									Upload your products to Google Shopping and get thousands of new, highly qualified visitors on your online shop....
+								</b>
+							</font>
+						</td>
+					</tr>
+					<tr>
+						<td width="209" align="right" colspan="2">
+							<font size="3" face="Arial" color="#343943">
+								<b>
+									<a class="linkmodule" style="color: #279EE0; font-size: 15px;text-decoration: none;" href="http://buy.r.mailjet.com/redirect/c0kctnwwkh85gfp9pzkjth/addons.prestashop.com/en/seo-prestashop-modules/1768-google-merchant-center-the-best-google-shopping-module.html?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN" target="_blank">
+										<img width="19" border="0" align="right" height="19" style="display:block;padding-top: 2px;" alt="bullet" src="http://medias3.prestastore.com/img/bullet.png">
+										Check it out!&nbsp;
+									</a>
+								</b>
+							</font>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</td>
+		
+			<td width="209" valign="top" bgcolor="#FFFFFF" style="border:1px solid #d8d8d8;">
+				<table width="209" cellspacing="0" cellpadding="5" border="0">
+					<tbody>
+					<tr>
+						<td width="65" valign="top">
+							<img src="http://medias2.prestastore.com/img/pico/3503.jpg" alt="Abandoned Cart Reminder" height="57" width="57" border="0" style="display:block;overflow:hidden" />
+						</td>
+						<td width="122" height="80" valign="top">
+							<font size="3" face="Arial" color="#343943">
+								<span style="color: #343943; font-size: 15px; line-height: 16px;">
+									<b>Abandoned Cart Reminder</b>
+								</span><br>
+							</font>
+							<img width="75" border="0" height="18" src="http://medias3.prestastore.com/themes/prestastore/img/rate_4.jpg" alt="PS" style="display:block;overflow:hidden">
+						</td>
+					</tr>
+					<tr>
+						<td width="209" valign="top" height="80" colspan="2">
+							<font size="2" face="Arial" color="#7AC143">
+								<b>
+									An abandoned cart no longer means a lost sale! Remind your clients that they left items in their shopping cart with auto...
+								</b>
+							</font>
+						</td>
+					</tr>
+					<tr>
+						<td width="209" align="right" colspan="2">
+							<font size="3" face="Arial" color="#343943">
+								<b>
+									<a class="linkmodule" style="color: #279EE0; font-size: 15px;text-decoration: none;" href="http://buy.r.mailjet.com/redirect/lc37twgj7slfb9m7whfq8k/addons.prestashop.com/en/checkout-modules/3503-abandoned-cart-reminder.html?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN" target="_blank">
+										<img width="19" border="0" align="right" height="19" style="display:block;padding-top: 2px;" alt="bullet" src="http://medias3.prestastore.com/img/bullet.png">
+										Check it out!&nbsp;
+									</a>
+								</b>
+							</font>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</td>
+		
+						</tr>
+					</tbody></table>
+
+					<font size="2" face="Arial" color="#333333" style="font-size:13px;display:block;line-height:20px;">
+						<br>... Over 4,000 brilliant ideas for your shop are available on <a href="http://buy.r.mailjet.com/redirect/6toyhjldmvy8tn1nffwogz/addons.prestashop.com/?utm_source=mail-H1&utm_medium=e-mail&utm_campaign=mail-auto-EN">PrestaShop Addons</a>. Discover them now!
+						<br><br>
+							The PrestaShop Team
+					</font>
+				</td>
+			</tr>
+		</tbody>
+		</table>
+
+    </td>
+    <td bgcolor="#EAEAEA">&nbsp;</td>
+  </tr>  <tr>
+    <td bgcolor="#EAEAEA" colspan="3" height="35" style="border-bottom: #FFFFFF solid 1px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#343943" style="border-top: #000000 solid 1px;">&nbsp;</td>
+    <td bgcolor="#343943" align="center" valign="top" style="border-top: #000000 solid 1px;" width="650">
+    <table width="650" border="0" cellspacing="0" cellpadding="0">
+  		<tr>
+            <td colspan="3" height="30"></td>
+        </tr>
+        <tr>
+   			<td align="left" width="270" valign="top">
+   			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  				<tr>
+   					<td align="left" colspan="6" height="25" width="240" valign="top"><span style="color: #909299; font-size: 15px; line-height: 15px;"><strong>FOLLOW US</strong></span></td>
+   				</tr>
+   				<tr>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirects/bs7otc3zgd3cmv6bfhvnk3/www.facebook.com/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/facebook.gif"
+border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/d570hj3pxghypohdl4xsgv/twitter.com/#!/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/twitter.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/2c7ph38gz8oq1lfsq8zcjn/vimeo.com/prestashopofficial" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/vimeo.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/hvtstcnn3xlt5dfx7br3r8/www.youtube.com/user/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/youtube.gif" border="0" height="42" width="41" /></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/jzp0tprs4xyby4lv36xlmt/www.reddit.com/r/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/reddit.gif" border="0" height="42" width="41"
+/></a></td>
+   					<td align="left" width="45" valign="middle"><a href="http://buy.r.mailjet.com/redirect/20s2thl93c7kzocqh7q4wm/www.pinterest.com/prestashop" style="text-decoration: none;"><img src="http://addons.prestashop.com/mails/images/pinterest.gif" border="0" height="42" width="41" /></a></td>
+  				</tr>
+			</table>
+   			</td>
+            <td width="30"></td>
+    		<td align="left" width="350" valign="top"><span style="color: #909299; font-size: 11px; line-height: 14px;">You received this email because you are a PrestaShop Addons customer or contributor. Please do not answer this message.<br />To contact us, please <a href="http://buy.r.mailjet.com/redirects/rps5ttvkcw3gy2c5wtbt4g/addons.prestashop.com/en/contact-us" style="color: #FFFFFF; text-decoration: none;">click here</a>.<br/><br/>
+            <a href="http://buy.r.mailjet.com/redirects/pvk8hfs1vzhr5l913nfgjw/addons.prestashop.com/en" style="color: #FFFFFF; text-decoration: none;">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://buy.r.mailjet.com/redirect/ryrctg322mzokyg6c6vf96/addons.prestashop.com/en/content/12-terms-and-conditions-of-use" style="color: #FFFFFF; text-decoration: none;">Legal
+notice</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://buy.r.mailjet.com/redirects/k3s8tcpv7gjs9xqx18t1bg/addons.prestashop.com/en/contact-us" style="color: #FFFFFF; text-decoration: none;">Contact us</a></span></td>
+  		</tr>
+        <tr>
+            <td colspan="3" height="30"></td>
+        </tr>
+        <tr>
+            <td align="left" colspan="3" valign="top"><span style="color: #909299; font-size: 11px; line-height: 14px;">&copy; PrestaShop Addons powered by PrestaShop&trade;</span></td>
+        </tr>
+        <tr>
+            <td colspan="3" height="30"></td>
+        </tr>
+	</table>
+    </td>
+    <td bgcolor="#343943" style="border-top: #000000 solid 1px;">&nbsp;</td>
+  </tr>
+</table>
+</center>
+
+<br/><img src="http://buy.r.mailjet.com/o/xhsz/9d473a19/3hk37lve.gif" height="1" width="1" alt="" border="0" />
+</body>
+</html>
+
+--_=_swift-7999727385338c196f19d19.62517069_=_--
+
+
